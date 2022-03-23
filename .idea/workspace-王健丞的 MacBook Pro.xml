@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="p3x" targetName="p3x" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f8d4ad8-fb54-4349-9ba9-02c28379e5e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1jqJyvCoyrseNmo28DzXGSDRnfX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="p3x" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="p3x" TARGET_NAME="p3x" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="p3x" RUN_TARGET_NAME="p3x">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f8d4ad8-fb54-4349-9ba9-02c28379e5e2" name="Default Changelist" comment="" />
+      <created>1604525946764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604525946764</updated>
+      <workItem from="1604525949159" duration="576000" />
+      <workItem from="1604526544285" duration="6705000" />
+      <workItem from="1604533982196" duration="751000" />
+      <workItem from="1604534805435" duration="555000" />
+      <workItem from="1604544381205" duration="643000" />
+      <workItem from="1604557765225" duration="5053000" />
+      <workItem from="1604576572225" duration="96000" />
+      <workItem from="1604604416617" duration="283000" />
+      <workItem from="1604609325389" duration="176000" />
+      <workItem from="1606009222699" duration="7736000" />
+      <workItem from="1606082922071" duration="7151000" />
+      <workItem from="1606108680722" duration="435000" />
+      <workItem from="1606109366821" duration="4000" />
+      <workItem from="1606186095688" duration="2056000" />
+      <workItem from="1606234358673" duration="799000" />
+      <workItem from="1606251660130" duration="229000" />
+      <workItem from="1606270005264" duration="235000" />
+      <workItem from="1610087795484" duration="1360000" />
+      <workItem from="1610229741788" duration="42000" />
+      <workItem from="1610229846691" duration="29000" />
+      <workItem from="1610229922413" duration="54000" />
+      <workItem from="1610229987386" duration="5000" />
+      <workItem from="1610272477265" duration="161000" />
+      <workItem from="1610272916784" duration="797000" />
+      <workItem from="1610335013008" duration="31000" />
+      <workItem from="1610335157367" duration="7000" />
+      <workItem from="1610338506592" duration="28000" />
+      <workItem from="1610339303272" duration="29000" />
+      <workItem from="1610339388384" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

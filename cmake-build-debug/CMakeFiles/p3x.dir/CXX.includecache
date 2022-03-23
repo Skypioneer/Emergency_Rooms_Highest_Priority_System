@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/p3x/Patient.h
+iomanip
+-
+sstream
+-
+string
+-
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/p3x/PatientPriorityQueuex.h
+Patient.h
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/p3x/Patient.h
+sstream
+-
+string
+-
+vector
+-
+iostream
+-
+algorithm
+-
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/p3x/p3x.cpp
+PatientPriorityQueuex.h
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/p3x/PatientPriorityQueuex.h
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+
